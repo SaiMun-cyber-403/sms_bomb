@@ -9,7 +9,7 @@ pkg upgrade
 pkg install python
 pip install requests
 pkg install git
-git clone https://github.com/SaiMun-cyber-403/SAIMON-RBD
+git clone https://github.com/SaiMun-cyber-403/sms_bomb
 cd sms_bomb
 python smsbomb.py
 
